@@ -1,5 +1,5 @@
 ---
-bio: My research interests include parenting, risk factors of child maltreatment, predictive risk modeling, and computational socia science
+bio: My research interests include parenting, risk factors of child maltreatment, predictive risk modeling, and computational social science
 
 education:
   courses:
@@ -27,9 +27,9 @@ organizations:
   url: https://ssw.unc.edu/
 role: Doctoral Candidate
 social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'
+#- icon: envelope
+#  icon_pack: fas
+#  link: '#contact'
 #link: /#contact 
 - icon: twitter
   icon_pack: fab
@@ -58,5 +58,7 @@ My dissertation will focus on risk factors of maltreatment rereports. My
 My research interests include parenting, engaging fathers in services, risk factors of child maltreatment, and predictive modeling. I also identify as a methodologist in social work research where the through line connecting my research interests involved the use of computational social science methods and other advanced statistical methods.
 
 My [recent study](http://sgcovidparenting.mystrikingly.com/) looked at parenting during COVID-19 pandemic in Singapore. Our first [paper](https://doi.org/10.1007/s10896-020-00200-1) looking at parenting stress has been published. 
+
+Email me: gcsk1982[at]gmail.com
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
