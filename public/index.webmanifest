@@ -2,8 +2,8 @@
   "name": "gerardchung.com",
   "short_name": "gerardchung.com",
   "lang": "en-us",
-  "theme_color": "rgb(255, 0, 60)",
-  "background_color": "rgb(255, 0, 60)",
+  "theme_color": "#4caf50",
+  "background_color": "#4caf50",
   "icons": [{
     "src": "/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_192x192_fill_lanczos_center_2.png",
     "sizes": "192x192",

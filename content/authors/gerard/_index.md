@@ -12,7 +12,7 @@ education:
   - course: BA in Social Work
     institution: National University of Singapore
     year: 2007
-email: ""
+email: "gcsk1982@gmail.com"
 highlight_name: false
 interests:
 - Child Protection System
@@ -29,7 +29,8 @@ role: Doctoral Candidate
 social:
 - icon: envelope
   icon_pack: fas
-  link: /#contact
+  link: gcsk1982@gmail.com 
+#  link: /#contact
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/GerardChung
