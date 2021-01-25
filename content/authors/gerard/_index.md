@@ -61,4 +61,4 @@ My [recent study](http://sgcovidparenting.mystrikingly.com/) looked at parenting
 
 Email me: gcsk1982[at]gmail.com
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv.pdf" "newtab" >}}cv{{< /staticref >}}.
